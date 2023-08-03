@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "userPrefs" : "",
+  "selectedTabIndex" : "",
+  "screen" : "",
+  "fields" : "",
+  "extraParams" : "",
+  "activityLogs" : "",
+  "views" : "",
+  "query" : "",
+  "sysId" : "f394230fb4672110320f8dc279c8041d",
+  "table" : "task",
+  "recipeId" : "bf86d000113a89107f4444bd6579adb2"
+}</macroponent_config>
+        <screen display_value="Default">eb14656f97147110f2b2f7a6f053af0d</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 22:48:23</sys_created_on>
+        <sys_id>2b1461af97147110f2b2f7a6f053af68</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_2b1461af97147110f2b2f7a6f053af68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 04:03:23</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
